@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family: 'poppins',sans-serif;
+    box-sizing:border-box; 
+}
+body{ 
+overflow-x: hidden;
+background-color: black;
+
+}
+.headbody{
+    background-image: url(./images&other/leadbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+   
+}
+.headbody table{
+    width: 100%;
+    padding-top: 20px;
+    box-sizing: border-box;
+    position: fixed;
+
+}
+.mainlogo{
+    font-size:400%;
+    color: aquamarine;
+    font-family:"Brush Script MT", cursive ,serif;  
+    width: 26%;
+    text-align: center;
+}
+.head a{
+    font-family:"Brush Script MT", cursive ,serif;
+    font-size: 30px; 
+    color: aqua;
+    text-decoration: none;
+    background:linear-gradient(rgba(0,0,0,0.7),#b9c1e471);
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    transition: .5s;
+}
+.head a:hover{
+    background-color: aqua;
+    padding: 20px;
+}
+.mainline{
+    width: 30%;
+    padding: 10px 25px;
+    margin: 10px 35px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 100px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.mainline p{
+    font-family:"Brush Script MT", cursive ,serif;
+     font-size: 60px;
+     color: bisque;
+}
+.mainline p:hover{
+    color: white;
+    font-size:50px ;
+}
+.mainpic{
+    display: inline-block;
+}
+.mainpic img{
+    width: 700px;
+}
+.manu{
+    width: 100%;
+    background-size: cover;
+    background-color: black;
+    color: antiquewhite;
+}
+.manu h1{
+    font-size: 30px ;
+    color: antiquewhite;
+    margin: 20px 40px;
+}
+.mainmanu{
+    width: 100%;
+    margin-left: 40px;  
+}
+.row1{
+    background:linear-gradient(rgba(0,0,0,0.7),#b9c1e471);
+    width:230px;
+    height: 400px;
+    display: inline-block;
+    margin-left: 10px;
+    text-align: center;
+    transition: .5s;
+    margin-bottom: 10px;
+}
+.row1 img{
+    width: 235px;
+    height: 200px;
+    background-size: cover; 
+
+}
+.row1:hover{
+    background-color: aqua;
+
+}
+.row1 a{
+        align-items: center;
+        font-family:"Brush Script MT", cursive ,serif;
+        font-size:40px;
+        text-decoration: none;
+        color: antiquewhite;
+        text-align: center;
+}
+i:hover{
+    color: orange;
+}
+.price{
+    ont-family:"Brush Script MT", cursive ,serif;
+    font-size: 25px;
+}
+row1 h5{
+    text-decoration: none;
+    padding: 5px;
+}
+.beans{
+    width: 100%;
+    margin-left: 40px;  
+}
+.beans1{
+    background:linear-gradient(rgba(0,0,0,0.7),#b9c1e471);
+    width:280px;
+    height: auto;
+    display: inline-block;
+    margin-left: 25px;
+}
+.beans1 a{
+    align-items: center;
+    font-family:"Brush Script MT", cursive ,serif;
+    font-size:50px;
+    text-decoration: none;
+    color: antiquewhite;
+}
+.allbeans{
+    width: 80%;
+    margin: 20px;
+    margin-left: 140px;
+}
+.mugs{
+    width: 100%;
+    text-align: center;  
+}
+.mugs1{
+    background:linear-gradient(rgba(0,0,0,0.7),#b9c1e471);
+    width:200px;
+    display: inline-block;
+    margin:20px auto;
+}
+.mugs1:hover{
+    background:black;
+}
+.mugs1 a{
+    margin: 2px;
+    align-items: center;
+    font-family:"Brush Script MT", cursive ,serif;
+    font-size:50px;
+    text-decoration: none;
+    color: antiquewhite;
+   
+}
+h1{
+    font-size: 30px ;
+    color: antiquewhite;
+    margin: 20px 40px;
+    text-align: left;
+}
+.interior{
+    background: linear-gradient(rgba(0,0,0,0.7),#b9c1e471);
+    width: 40%;
+    height: auto;
+    margin: 25px auto;
+}
+.interior img{
+    width: 40%;
+    margin: 20px;
+    height: 200px;
+}
+.contact{
+    font-size: 30px ;
+    color: antiquewhite;
+    margin: 20px 40px;
+    text-align: center;
+}
+.icon{
+    background: linear-gradient(rgba(0,0,0,0.7),#b9c1e471);
+
+}
+.icon i{
+    font-size: 50px;
+    margin: 20px;
+}
+
+
+
+
+
+
+
